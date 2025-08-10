@@ -22,9 +22,9 @@
 4. **테스트 실행**
 `package.json`에 설정된 **Jest** 테스트 스크립트를 사용하여 모든 테스트를 실행할 수 있습니다.
 
-```bash
-npm test
-```
+    ```bash
+    npm test
+    ```
 
 ## 파일 구성
 - solution.js: 알고리즘 문제의 핵심 로직이 구현된 파일
